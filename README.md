@@ -4,7 +4,7 @@
 
 ## 시연 영상
 
-- [Orion 시연 영상 보기 (`Orion 시연.mp4`)](Orion%20%EC%8B%9C%EC%97%B0.mp4)[cite: 4, 5]
+[https://github.com/hihibang/Star-predict-system/raw/main/Orion%20%EC%8B%9C%EC%97%B0.mp4](https://github.com/hihibang/Star-predict-system/raw/main/Orion%20%EC%8B%9C%EC%97%B0.mp4)
 
 프로젝트는 다음 두 부분으로 구성됩니다[cite: 3].
 
